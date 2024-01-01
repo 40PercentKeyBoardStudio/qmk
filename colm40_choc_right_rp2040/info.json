@@ -1,7 +1,7 @@
 {
-    "manufacturer": "M.Nokura",
+    "manufacturer": "40 Percent Keyboard Studio",
     "keyboard_name": "colm40 rev1 choc right",
-    "maintainer": "M.Nokura",
+    "maintainer": "n4a",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {

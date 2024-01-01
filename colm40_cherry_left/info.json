@@ -1,7 +1,7 @@
 {
-    "manufacturer": "M.Nokura",
+    "manufacturer": "40 Percent Keyboard Studio",
     "keyboard_name": "colm40 cherry",
-    "maintainer": "M.Nokura",
+    "maintainer": "n4a",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
     "features": {
